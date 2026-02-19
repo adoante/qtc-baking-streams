@@ -1,0 +1,169 @@
+{
+    "slug": "chocolate-crinkle-cookies",
+    "title": "Chocolate Crinkle Cookies",
+    "thumbnail": "/recipes/chocolate-crinkle-cookies.webp",
+    "thumbnail_credit": "trulybymelissa",
+    "video": {
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/embed/iGT1O2-sQik"
+    },
+    "servings": 0,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 0,
+    "temperature": {
+        "fahrenheit": 0,
+        "celsius": 0
+    },
+    "components": [
+        {
+            "id": "cookies",
+            "name": "Cookies",
+            "ingredients": [
+                {
+                    "name": "Granulated Sugar",
+                    "quantity": 2,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 400,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Vegetable Oil",
+                    "quantity": 0.75,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 180,
+                        "unit": "ml"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Cocoa Powder",
+                    "quantity": 0.75,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 75,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Eggs",
+                    "quantity": 4,
+                    "unit": "whole",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Vanilla Extract",
+                    "quantity": 2,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 10,
+                        "unit": "ml"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "All-Purpose Flour",
+                    "quantity": 2.5,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 290,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Baking Powder",
+                    "quantity": 2,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 10,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 0.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 3,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Powdered Sugar",
+                    "quantity": 2,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 240,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "For coating"
+                }
+            ],
+            "instructions": []
+        }
+    ],
+    "tools": [
+        {
+            "name": "Mixing Bowls",
+            "optional": false
+        },
+        {
+            "name": "Measuring Cups and Spoons",
+            "optional": false
+        },
+        {
+            "name": "Hand or Stand Mixer",
+            "optional": false
+        },
+        {
+            "name": "Whisk",
+            "optional": false
+        },
+        {
+            "name": "Plastic Wrap",
+            "optional": false
+        },
+        {
+            "name": "Parchment Paper",
+            "optional": false
+        },
+        {
+            "name": "Spatula or Bowl Scraper",
+            "optional": false
+        },
+        {
+            "name": "Baking Sheet",
+            "optional": false
+        },
+        {
+            "name": "Cookie Scoop or Spoon",
+            "optional": false
+        },
+        {
+            "name": "Cooling Rack",
+            "optional": false
+        }
+    ],
+    "notes": [],
+    "tags": []
+}

@@ -1,0 +1,208 @@
+{
+    "slug": "fruit-pizza",
+    "title": "Fruit Pizza",
+    "thumbnail": "/recipes/fruit-pizza.webp",
+    "thumbnail_credit": "hanbam0916",
+    "video": {
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/embed/qGk4BISwt2w"
+    },
+    "servings": 0,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 0,
+    "temperature": {
+        "fahrenheit": 0,
+        "celsius": 0
+    },
+    "components": [
+        {
+            "id": "sugar-cookie-crust",
+            "name": "Sugar Cookie Crust",
+            "ingredients": [
+                {
+                    "name": "All-Purpose Flour",
+                    "quantity": 1.5,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 188,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "Spooned & leveled"
+                },
+                {
+                    "name": "Cornstarch",
+                    "quantity": 1.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 4,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Baking Powder",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 4,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 0.25,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 2,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Unsalted Butter",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 113,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "Softened"
+                },
+                {
+                    "name": "Granulated Sugar",
+                    "quantity": 0.75,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 150,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Egg",
+                    "quantity": 1,
+                    "unit": "large",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "Room temperature"
+                },
+                {
+                    "name": "Vanilla Extract",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 4,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        },
+        {
+            "id": "cream-cheese-topping",
+            "name": "Cream Cheese Topping",
+            "ingredients": [
+                {
+                    "name": "Cream Cheese",
+                    "quantity": 8,
+                    "unit": "oz",
+                    "metric": {
+                        "quantity": 226,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "Softened"
+                },
+                {
+                    "name": "Unsalted Butter",
+                    "quantity": 3,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 43,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "Softened"
+                },
+                {
+                    "name": "Powdered Sugar",
+                    "quantity": 1.25,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 150,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Vanilla Extract",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 4,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Sliced Fresh Fruit",
+                    "quantity": 3,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 400,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "Mandarin oranges, strawberries, blackberries, blueberries, raspberries, kiwis"
+                }
+            ],
+            "instructions": []
+        }
+    ],
+    "tools": [
+        {
+            "name": "Mixing Bowls",
+            "optional": false
+        },
+        {
+            "name": "Measuring Cups and Spoons",
+            "optional": false
+        },
+        {
+            "name": "Electric Mixer or Whisks",
+            "optional": false
+        },
+        {
+            "name": "Baking Sheets",
+            "optional": false
+        },
+        {
+            "name": "Parchment Paper",
+            "optional": false
+        },
+        {
+            "name": "Spatula or Bowl Scraper",
+            "optional": false
+        },
+        {
+            "name": "Knife",
+            "optional": false
+        }
+    ],
+    "notes": [],
+    "tags": []
+}

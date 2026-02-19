@@ -1,0 +1,59 @@
+{
+    "recipes": [
+        {
+            "slug": "",
+            "title": "",
+            "thumbnail": "",
+            "video": {
+                "platform": "",
+                "url": ""
+            },
+            "servings": 0,
+            "prep_time_minutes": 0,
+            "cook_time_minutes": 0,
+            "temperature": {
+                "fahrenheit": 0,
+                "celsius": 0
+            },
+            "components": [
+                {
+                    "name": "",
+                    "ingredients": [
+                        {
+                            "name": "",
+                            "quantity": 0,
+                            "unit": "",
+                            "metric": {
+                                "quantity": 0,
+                                "unit": ""
+                            },
+                            "optional": false,
+                            "notes": ""
+                        }
+                    ],
+                    "instructions": [
+                        {
+                            "step": 1,
+                            "title": "",
+                            "actions": [
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "tools": [
+                {
+                    "name": "",
+                    "optional": false
+                }
+            ],
+            "notes": [
+                ""
+            ],
+            "tags": [
+                ""
+            ]
+        }
+    ]
+}

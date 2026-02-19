@@ -1,0 +1,137 @@
+{
+    "slug": "clam-chowder",
+    "title": "Clam Chowder",
+    "thumbnail": "/recipes/clam-chowder.webp",
+    "thumbnail_credit": "laura.quesadilla",
+    "video": {
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/embed/oitl97hcT5M"
+    },
+    "servings": 0,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 0,
+    "temperature": {
+        "fahrenheit": 0,
+        "celsius": 0
+    },
+    "components": [
+        {
+            "id": "chowder",
+            "name": "Chowder",
+            "ingredients": [
+                {
+                    "name": "Canned Clams",
+                    "quantity": 2,
+                    "unit": "cans",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Potatoes",
+                    "quantity": 2,
+                    "unit": "whole",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Celery",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 100,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Onions",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 150,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Butter",
+                    "quantity": 4,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 57,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "All-Purpose Flour",
+                    "quantity": 0.75,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 960,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": 0.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 2,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Half and Half",
+                    "quantity": 4,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 960,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        }
+    ],
+    "tools": [
+        {
+            "name": "Measuring cups and spoons",
+            "optional": false
+        },
+        {
+            "name": "Knife",
+            "optional": false
+        },
+        {
+            "name": "Cutting Board",
+            "optional": false
+        },
+        {
+            "name": "Pot",
+            "optional": false
+        }
+    ],
+    "notes": [],
+    "tags": [
+        "Clams",
+        "Soup"
+    ]
+}

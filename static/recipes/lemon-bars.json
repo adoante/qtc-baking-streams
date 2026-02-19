@@ -1,0 +1,183 @@
+{
+    "slug": "lemon-bars",
+    "title": "Lemon Bars",
+    "thumbnail": "/recipes/lemon-bars.webp",
+    "thumbnail_credit": "Jalex Sosaroth (_alex_sosa_)",
+    "video": {
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/embed/XY3emBO-QWo"
+    },
+    "servings": 0,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 0,
+    "temperature": {
+        "fahrenheit": 0,
+        "celsius": 0
+    },
+    "components": [
+        {
+            "id": "crust",
+            "name": "Crust",
+            "ingredients": [
+                {
+                    "name": "All-Purpose Flour",
+                    "quantity": 2.5,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 300,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Powdered Sugar",
+                    "quantity": 0.667,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 66,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 0.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 4,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Unsalted Butter (melted)",
+                    "quantity": 12,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 170,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        },
+        {
+            "id": "lemon-filling",
+            "name": "Lemon Filling",
+            "ingredients": [
+                {
+                    "name": "Lemon Zest",
+                    "quantity": 3,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 44,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "All-Purpose Flour",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 60,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": 3,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 600,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Eggs",
+                    "quantity": 8,
+                    "unit": "large",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "Room temperature"
+                },
+                {
+                    "name": "Lemon Juice",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 240,
+                        "unit": "mL"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Powdered Sugar",
+                    "quantity": 0,
+                    "unit": "",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": true,
+                    "notes": "For dusting"
+                }
+            ],
+            "instructions": []
+        }
+    ],
+    "tools": [
+        {
+            "name": "Mixing Bowls",
+            "optional": false
+        },
+        {
+            "name": "Measuring Cups and Spoons",
+            "optional": false
+        },
+        {
+            "name": "Food Processor",
+            "optional": true
+        },
+        {
+            "name": "9x13 Baking Dish",
+            "optional": false
+        },
+        {
+            "name": "Parchment Paper",
+            "optional": false
+        },
+        {
+            "name": "Spatula or Bowl Scraper",
+            "optional": false
+        },
+        {
+            "name": "Knife",
+            "optional": false
+        },
+        {
+            "name": "Zester",
+            "optional": false
+        },
+        {
+            "name": "Fruit Juicer",
+            "optional": false
+        }
+    ],
+    "notes": [],
+    "tags": []
+}

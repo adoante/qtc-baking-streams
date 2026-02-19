@@ -1,0 +1,233 @@
+{
+    "slug": "spudnuts",
+    "title": "Spudnuts",
+    "thumbnail": "/recipes/Spudnuts.webp",
+    "thumbnail_credit": "Kristen (netsirked)",
+    "video": {
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/embed/oitl97hcT5M"
+    },
+    "servings": 0,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 0,
+    "temperature": {
+        "fahrenheit": 0,
+        "celsius": 0
+    },
+    "components": [
+        {
+            "id": "spudnut-dough",
+            "name": "Spudnut",
+            "ingredients": [
+                {
+                    "name": "Yeast",
+                    "quantity": 2,
+                    "unit": "packets",
+                    "metric": {
+                        "quantity": 14,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Milk",
+                    "quantity": 1.75,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 420,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "Warm"
+                },
+                {
+                    "name": "Sugar",
+                    "quantity": 2,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 12,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Mashed Potatoes",
+                    "quantity": 0.5,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 120,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 2,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 12,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Eggs",
+                    "quantity": 2,
+                    "unit": "",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Water",
+                    "quantity": 0.5,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 120,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Shortening",
+                    "quantity": 0.5,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 95,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Baking Powder",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 4,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Vanilla Extract",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 5,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "All Purpose Flour",
+                    "quantity": 6,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 750,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "6 to 7 cups or 750 to 875 grams"
+                }
+            ],
+            "instructions": []
+        },
+        {
+            "id": "spudnut-glaze",
+            "name": "Glaze",
+            "ingredients": [
+                {
+                    "name": "Powdered Sugar",
+                    "quantity": 1,
+                    "unit": "lbs",
+                    "metric": {
+                        "quantity": 454,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Margarine",
+                    "quantity": 2,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 28,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Vanilla Extract",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 5,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Water",
+                    "quantity": 0,
+                    "unit": "",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "Hot and Add Gradually - no set quantity"
+                }
+            ]
+        }
+    ],
+    "tools": [
+        {
+            "name": "Measuring cups and spoons",
+            "optional": false
+        },
+        {
+            "name": "Cooling Rack",
+            "optional": false
+        },
+        {
+            "name": "Sheet pan",
+            "optional": false
+        },
+        {
+            "name": "Rolling pin",
+            "optional": false
+        },
+        {
+            "name": "Paper towel",
+            "optional": false
+        },
+        {
+            "name": "Bowls",
+            "optional": false
+        },
+        {
+            "name": "Spatula",
+            "optional": false
+        }
+    ],
+    "notes": [],
+    "tags": [
+        "Doughnut",
+        "Glaze",
+        "Potato"
+    ]
+}

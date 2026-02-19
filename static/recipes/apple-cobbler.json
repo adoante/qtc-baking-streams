@@ -1,0 +1,225 @@
+{
+    "slug": "apple-cobbler",
+    "title": "Apple Cobbler",
+    "thumbnail": "/recipes/apple-cobbler.webp",
+    "thumbnail_credit": "Dabina (dabina27)",
+    "video": {
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/embed/bIMs2G9laE8"
+    },
+    "servings": 0,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 0,
+    "temperature": {
+        "fahrenheit": 0,
+        "celsius": 0
+    },
+    "components": [
+        {
+            "id": "fruit-filling",
+            "name": "Fruit Filling",
+            "ingredients": [
+                {
+                    "name": "Granny Smith Apples",
+                    "quantity": 4,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 800,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Lemon Juice",
+                    "quantity": 1,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 14,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Cinnamon",
+                    "quantity": 2,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 24,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Nutmeg",
+                    "quantity": 0.25,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 1,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 0.25,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 1,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "All-Purpose Flour",
+                    "quantity": 1,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 14,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Granulated Sugar",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 100,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Brown Sugar",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 100,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        },
+        {
+            "id": "cobbler-topping",
+            "name": "Cobbler Topping",
+            "ingredients": [
+                {
+                    "name": "All-Purpose Flour",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 200,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Baking Powder",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 4,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Baking Soda",
+                    "quantity": 0.25,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 1,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Salt",
+                    "quantity": 0.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 2,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Unsalted Butter",
+                    "quantity": 0.25,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 50,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Milk",
+                    "quantity": 6,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 85,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        }
+    ],
+    "tools": [
+        {
+            "name": "Mixing Bowls",
+            "optional": false
+        },
+        {
+            "name": "Measuring Cups and Spoons",
+            "optional": false
+        },
+        {
+            "name": "Hand or Stand Mixer",
+            "optional": false
+        },
+        {
+            "name": "Whisk",
+            "optional": false
+        },
+        {
+            "name": "Spatula or Bowl Scraper",
+            "optional": false
+        },
+        {
+            "name": "Dutch Oven",
+            "optional": false
+        },
+        {
+            "name": "Knife",
+            "optional": false
+        },
+        {
+            "name": "Foil",
+            "optional": false
+        }
+    ],
+    "notes": [
+        "VOD starts at approximately 1:30:00"
+    ],
+    "tags": []
+}

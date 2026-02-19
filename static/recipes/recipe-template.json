@@ -1,0 +1,58 @@
+{
+    "slug": "",
+    "title": "",
+    "thumbnail": "/recipes/[SLUG].webp",
+    "thumbnail_credit": "",
+    "video": {
+        "platform": "",
+        "url": ""
+    },
+    "servings": 0,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 0,
+    "temperature": {
+        "fahrenheit": 0,
+        "celsius": 0
+    },
+    "components": [
+        {
+            "id": "",
+            "name": "",
+            "ingredients": [
+                {
+                    "name": "",
+                    "quantity": 0,
+                    "unit": "",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": [
+                {
+                    "step": 1,
+                    "title": "",
+                    "actions": [
+                        ""
+                    ],
+                    "timer_minutes": 0
+                }
+            ]
+        }
+    ],
+    "tools": [
+        {
+            "name": "",
+            "optional": false
+        }
+    ],
+    "notes": [
+        ""
+    ],
+    "tags": [
+        ""
+    ]
+}

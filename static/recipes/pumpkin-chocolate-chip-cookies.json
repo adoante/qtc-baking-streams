@@ -1,0 +1,267 @@
+{
+    "slug": "pumpkin-chocolate-chip-cookies",
+    "title": "Pumpkin Chocolate Chip Cookies",
+    "thumbnail": "/recipes/pumpkin-chocolate-chip-cookies.webp",
+    "thumbnail_credit": "ado-ante",
+    "video": {
+        "platform": "YouTube",
+        "url": "https://www.youtube.com/embed/-8TUYrJ0a5k"
+    },
+    "servings": 0,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 15,
+    "temperature": {
+        "fahrenheit": 375,
+        "celsius": 190
+    },
+    "components": [
+        {
+            "id": "cookie_dough",
+            "name": "Cookie Dough",
+            "ingredients": [
+                {
+                    "name": "pumpkin purée",
+                    "quantity": 1,
+                    "unit": "can",
+                    "metric": {
+                        "quantity": 425,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "granulated sugar",
+                    "quantity": 1.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 300,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "canola or vegetable oil",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 150,
+                        "unit": "ml"
+                    },
+                    "optional": false,
+                    "notes": "+ 2 tbsp"
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": 2,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 10,
+                        "unit": "ml"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "cake flour or all-purpose flour",
+                    "quantity": 2.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 310,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "pumpkin pie spice",
+                    "quantity": 5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 5,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "cinnamon",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 2.5,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": 1.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 7.5,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "baking soda",
+                    "quantity": 1.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 7.5,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "kosher sea salt",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 5,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "mini semi-sweet chocolate chips",
+                    "quantity": 1.25,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 225,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": [
+                {
+                    "step": 1,
+                    "title": "Prep",
+                    "actions": [
+                        "Preheat oven to 375°F (190°C)",
+                        "Line baking sheets with parchment paper if desired"
+                    ],
+                    "timer_minutes": 0
+                },
+                {
+                    "step": 2,
+                    "title": "Pat Dry the Pumpkin",
+                    "actions": [
+                        "Place pumpkin purée in a bowl",
+                        "Pat dry with paper towels",
+                        "Stir and blot again until the purée feels thicker",
+                        "This helps prevent overly cakey cookies"
+                    ],
+                    "timer_minutes": 0
+                },
+                {
+                    "step": 3,
+                    "title": "Mix Wet Ingredients",
+                    "actions": [
+                        "Add sugar to pumpkin purée",
+                        "Mix until smooth",
+                        "Add oil",
+                        "Add vanilla extract",
+                        "Mix until glossy and fully combined"
+                    ],
+                    "timer_minutes": 0
+                },
+                {
+                    "step": 4,
+                    "title": "Mix Dry Ingredients",
+                    "actions": [
+                        "Whisk flour, pumpkin pie spice, cinnamon, salt, baking soda, and baking powder in a separate bowl",
+                        "Whisk well to evenly distribute spices and leavening"
+                    ],
+                    "timer_minutes": 0
+                },
+                {
+                    "step": 5,
+                    "title": "Combine Wet and Dry",
+                    "actions": [
+                        "Add half of the dry mixture to the wet ingredients",
+                        "Mix until just combined",
+                        "Add remaining dry ingredients",
+                        "Mix gently until no dry flour remains",
+                        "Do not overmix"
+                    ],
+                    "timer_minutes": 0
+                },
+                {
+                    "step": 6,
+                    "title": "Add Chocolate Chips",
+                    "actions": [
+                        "Add chocolate chips",
+                        "Fold gently with a spatula until evenly distributed"
+                    ],
+                    "timer_minutes": 0
+                },
+                {
+                    "step": 7,
+                    "title": "Scoop and Bake",
+                    "actions": [
+                        "Scoop dough onto baking sheets, spacing cookies 2 inches apart",
+                        "Bake at 375°F for 15 minutes",
+                        "Cookies are done when edges are set and tops look matte"
+                    ],
+                    "timer_minutes": 15
+                },
+                {
+                    "step": 8,
+                    "title": "Cool",
+                    "actions": [
+                        "Let cookies cool on baking sheets for 5 minutes",
+                        "Transfer to cooling rack if desired",
+                        "Cookies will firm slightly as they cool while staying soft inside"
+                    ],
+                    "timer_minutes": 5
+                }
+            ]
+        }
+    ],
+    "tools": [
+        {
+            "name": "baking sheets",
+            "optional": false
+        },
+        {
+            "name": "parchment paper",
+            "optional": true
+        },
+        {
+            "name": "mixing bowls",
+            "optional": false
+        },
+        {
+            "name": "electric mixer, hand mixer, or whisk",
+            "optional": false
+        },
+        {
+            "name": "measuring cups and spoons",
+            "optional": false
+        },
+        {
+            "name": "cookie scoop or large spoon",
+            "optional": false
+        },
+        {
+            "name": "cooling rack",
+            "optional": true
+        }
+    ],
+    "notes": [
+        "Patting the pumpkin dry is key for proper texture"
+    ],
+    "tags": [
+        "cookies",
+        "pumpkin"
+    ]
+}
