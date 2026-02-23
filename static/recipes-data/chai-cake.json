@@ -1,7 +1,7 @@
 {
     "slug": "chai-cake",
     "title": "Chai Cake",
-    "thumbnail": "/recipes/chai-cake.webp",
+    "thumbnail": "/recipes-data/chai-cake.webp",
     "thumbnail_credit": "Platipii",
     "video": {
         "platform": "",
@@ -325,5 +325,8 @@
         }
     ],
     "notes": [],
-    "tags": []
+    "tags": [
+        "chai",
+        "cake"
+    ]
 }

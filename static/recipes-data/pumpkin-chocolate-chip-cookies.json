@@ -1,7 +1,7 @@
 {
     "slug": "pumpkin-chocolate-chip-cookies",
     "title": "Pumpkin Chocolate Chip Cookies",
-    "thumbnail": "/recipes/pumpkin-chocolate-chip-cookies.webp",
+    "thumbnail": "/recipes-data/pumpkin-chocolate-chip-cookies.webp",
     "thumbnail_credit": "ado-ante",
     "video": {
         "platform": "YouTube",
@@ -262,6 +262,7 @@
     ],
     "tags": [
         "cookies",
-        "pumpkin"
+        "pumpkin",
+        "chocolate"
     ]
 }

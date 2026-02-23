@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+* {
+    font-family: 'Sour Gummy', sans-serif;
+}
+
+h2 {
+    font-family: 'Delius', sans-serif;
+    font-weight: 900;
+}
+
+h1 {
+
+    font-family: 'DynaPuff', sans-serif;
+    font-weight: 600;
+}

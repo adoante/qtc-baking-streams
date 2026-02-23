@@ -1,7 +1,7 @@
 {
     "slug": "apple-cobbler",
     "title": "Apple Cobbler",
-    "thumbnail": "/recipes/apple-cobbler.webp",
+    "thumbnail": "/recipes-data/apple-cobbler.webp",
     "thumbnail_credit": "Dabina (dabina27)",
     "video": {
         "platform": "YouTube",
@@ -221,5 +221,8 @@
     "notes": [
         "VOD starts at approximately 1:30:00"
     ],
-    "tags": []
+    "tags": [
+        "pie",
+        "apple"
+    ]
 }

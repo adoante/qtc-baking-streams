@@ -10,10 +10,10 @@
 	let { thumbnail, title, slug }: RecipeCardProps = $props();
 </script>
 
-<a href="/recipe/{slug}">
-	<Card class="max-w-xs rounded-none text-center">
+<a href="/recipe/{slug}" class="flex w-max items-center justify-center">
+	<Card class="justify-center rounded-none border-none text-center">
 		<Content>
-			<img src={thumbnail} alt={title} />
+			<img src={thumbnail} alt={title} class="h-60 w-100 object-cover md:h-100" />
 		</Content>
 		<Header>
 			<Title>{title}</Title>

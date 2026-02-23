@@ -1,11 +1,11 @@
 {
-    "slug": "spudnuts",
-    "title": "Spudnuts",
-    "thumbnail": "/recipes/Spudnuts.webp",
-    "thumbnail_credit": "Kristen (netsirked)",
+    "slug": "fruit-pizza",
+    "title": "Fruit Pizza",
+    "thumbnail": "/recipes-data/fruit-pizza.webp",
+    "thumbnail_credit": "hanbam0916",
     "video": {
         "platform": "YouTube",
-        "url": "https://www.youtube.com/embed/oitl97hcT5M"
+        "url": "https://www.youtube.com/embed/qGk4BISwt2w"
     },
     "servings": 0,
     "prep_time_minutes": 0,
@@ -16,92 +16,26 @@
     },
     "components": [
         {
-            "id": "spudnut-dough",
-            "name": "Spudnut",
+            "id": "sugar-cookie-crust",
+            "name": "Sugar Cookie Crust",
             "ingredients": [
                 {
-                    "name": "Yeast",
-                    "quantity": 2,
-                    "unit": "packets",
-                    "metric": {
-                        "quantity": 14,
-                        "unit": "g"
-                    },
-                    "optional": false,
-                    "notes": ""
-                },
-                {
-                    "name": "Milk",
-                    "quantity": 1.75,
+                    "name": "All-Purpose Flour",
+                    "quantity": 1.5,
                     "unit": "cups",
                     "metric": {
-                        "quantity": 420,
+                        "quantity": 188,
                         "unit": "g"
                     },
                     "optional": false,
-                    "notes": "Warm"
+                    "notes": "Spooned & leveled"
                 },
                 {
-                    "name": "Sugar",
-                    "quantity": 2,
+                    "name": "Cornstarch",
+                    "quantity": 1.5,
                     "unit": "tsp",
                     "metric": {
-                        "quantity": 12,
-                        "unit": "g"
-                    },
-                    "optional": false,
-                    "notes": ""
-                },
-                {
-                    "name": "Mashed Potatoes",
-                    "quantity": 0.5,
-                    "unit": "cups",
-                    "metric": {
-                        "quantity": 120,
-                        "unit": "g"
-                    },
-                    "optional": false,
-                    "notes": ""
-                },
-                {
-                    "name": "Salt",
-                    "quantity": 2,
-                    "unit": "tsp",
-                    "metric": {
-                        "quantity": 12,
-                        "unit": "g"
-                    },
-                    "optional": false,
-                    "notes": ""
-                },
-                {
-                    "name": "Eggs",
-                    "quantity": 2,
-                    "unit": "",
-                    "metric": {
-                        "quantity": 0,
-                        "unit": ""
-                    },
-                    "optional": false,
-                    "notes": ""
-                },
-                {
-                    "name": "Water",
-                    "quantity": 0.5,
-                    "unit": "cups",
-                    "metric": {
-                        "quantity": 120,
-                        "unit": "g"
-                    },
-                    "optional": false,
-                    "notes": ""
-                },
-                {
-                    "name": "Shortening",
-                    "quantity": 0.5,
-                    "unit": "cups",
-                    "metric": {
-                        "quantity": 95,
+                        "quantity": 4,
                         "unit": "g"
                     },
                     "optional": false,
@@ -119,51 +53,95 @@
                     "notes": ""
                 },
                 {
-                    "name": "Vanilla Extract",
-                    "quantity": 1,
+                    "name": "Salt",
+                    "quantity": 0.25,
                     "unit": "tsp",
                     "metric": {
-                        "quantity": 5,
+                        "quantity": 2,
                         "unit": "g"
                     },
                     "optional": false,
                     "notes": ""
                 },
                 {
-                    "name": "All Purpose Flour",
-                    "quantity": 6,
-                    "unit": "cups",
+                    "name": "Unsalted Butter",
+                    "quantity": 0.5,
+                    "unit": "cup",
                     "metric": {
-                        "quantity": 750,
+                        "quantity": 113,
                         "unit": "g"
                     },
                     "optional": false,
-                    "notes": "6 to 7 cups or 750 to 875 grams"
+                    "notes": "Softened"
+                },
+                {
+                    "name": "Granulated Sugar",
+                    "quantity": 0.75,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 150,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Egg",
+                    "quantity": 1,
+                    "unit": "large",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "Room temperature"
+                },
+                {
+                    "name": "Vanilla Extract",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 4,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
                 }
             ],
             "instructions": []
         },
         {
-            "id": "spudnut-glaze",
-            "name": "Glaze",
+            "id": "cream-cheese-topping",
+            "name": "Cream Cheese Topping",
             "ingredients": [
                 {
-                    "name": "Powdered Sugar",
-                    "quantity": 1,
-                    "unit": "lbs",
+                    "name": "Cream Cheese",
+                    "quantity": 8,
+                    "unit": "oz",
                     "metric": {
-                        "quantity": 454,
+                        "quantity": 226,
                         "unit": "g"
                     },
                     "optional": false,
-                    "notes": ""
+                    "notes": "Softened"
                 },
                 {
-                    "name": "Margarine",
-                    "quantity": 2,
+                    "name": "Unsalted Butter",
+                    "quantity": 3,
                     "unit": "tbsp",
                     "metric": {
-                        "quantity": 28,
+                        "quantity": 43,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "Softened"
+                },
+                {
+                    "name": "Powdered Sugar",
+                    "quantity": 1.25,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 150,
                         "unit": "g"
                     },
                     "optional": false,
@@ -174,60 +152,60 @@
                     "quantity": 1,
                     "unit": "tsp",
                     "metric": {
-                        "quantity": 5,
+                        "quantity": 4,
                         "unit": "g"
                     },
                     "optional": false,
                     "notes": ""
                 },
                 {
-                    "name": "Water",
-                    "quantity": 0,
-                    "unit": "",
+                    "name": "Sliced Fresh Fruit",
+                    "quantity": 3,
+                    "unit": "cups",
                     "metric": {
-                        "quantity": 0,
+                        "quantity": 400,
                         "unit": "g"
                     },
                     "optional": false,
-                    "notes": "Hot and Add Gradually - no set quantity"
+                    "notes": "Mandarin oranges, strawberries, blackberries, blueberries, raspberries, kiwis"
                 }
-            ]
+            ],
+            "instructions": []
         }
     ],
     "tools": [
         {
-            "name": "Measuring cups and spoons",
+            "name": "Mixing Bowls",
             "optional": false
         },
         {
-            "name": "Cooling Rack",
+            "name": "Measuring Cups and Spoons",
             "optional": false
         },
         {
-            "name": "Sheet pan",
+            "name": "Electric Mixer or Whisks",
             "optional": false
         },
         {
-            "name": "Rolling pin",
+            "name": "Baking Sheets",
             "optional": false
         },
         {
-            "name": "Paper towel",
+            "name": "Parchment Paper",
             "optional": false
         },
         {
-            "name": "Bowls",
+            "name": "Spatula or Bowl Scraper",
             "optional": false
         },
         {
-            "name": "Spatula",
+            "name": "Knife",
             "optional": false
         }
     ],
     "notes": [],
     "tags": [
-        "Doughnut",
-        "Glaze",
-        "Potato"
+        "fruit",
+        "tart"
     ]
 }

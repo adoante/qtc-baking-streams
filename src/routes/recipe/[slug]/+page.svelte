@@ -97,7 +97,7 @@
 	<!-- Tools -->
 	{#if recipe.tools?.length}
 		<section>
-			<h3 class="text-2xl text-pink-500">Tools</h3>
+			<h2 class="text-3xl text-pink-400">Tools</h2>
 			<ul>
 				{#each recipe.tools as tool (tool)}
 					<li class="ml-6 list-disc leading-relaxed">

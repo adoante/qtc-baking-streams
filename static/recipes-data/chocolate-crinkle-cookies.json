@@ -1,11 +1,11 @@
 {
-    "slug": "lemon-bars",
-    "title": "Lemon Bars",
-    "thumbnail": "/recipes/lemon-bars.webp",
-    "thumbnail_credit": "Jalex Sosaroth (_alex_sosa_)",
+    "slug": "chocolate-crinkle-cookies",
+    "title": "Chocolate Crinkle Cookies",
+    "thumbnail": "/recipes-data/chocolate-crinkle-cookies.webp",
+    "thumbnail_credit": "trulybymelissa",
     "video": {
         "platform": "YouTube",
-        "url": "https://www.youtube.com/embed/XY3emBO-QWo"
+        "url": "https://www.youtube.com/embed/iGT1O2-sQik"
     },
     "servings": 0,
     "prep_time_minutes": 0,
@@ -16,26 +16,81 @@
     },
     "components": [
         {
-            "id": "crust",
-            "name": "Crust",
+            "id": "cookies",
+            "name": "Cookies",
             "ingredients": [
                 {
-                    "name": "All-Purpose Flour",
-                    "quantity": 2.5,
+                    "name": "Granulated Sugar",
+                    "quantity": 2,
                     "unit": "cups",
                     "metric": {
-                        "quantity": 300,
+                        "quantity": 400,
                         "unit": "g"
                     },
                     "optional": false,
                     "notes": ""
                 },
                 {
-                    "name": "Powdered Sugar",
-                    "quantity": 0.667,
+                    "name": "Vegetable Oil",
+                    "quantity": 0.75,
                     "unit": "cup",
                     "metric": {
-                        "quantity": 66,
+                        "quantity": 180,
+                        "unit": "ml"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Cocoa Powder",
+                    "quantity": 0.75,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 75,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Eggs",
+                    "quantity": 4,
+                    "unit": "whole",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Vanilla Extract",
+                    "quantity": 2,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 10,
+                        "unit": "ml"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "All-Purpose Flour",
+                    "quantity": 2.5,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 290,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "Baking Powder",
+                    "quantity": 2,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 10,
                         "unit": "g"
                     },
                     "optional": false,
@@ -46,95 +101,22 @@
                     "quantity": 0.5,
                     "unit": "tsp",
                     "metric": {
-                        "quantity": 4,
+                        "quantity": 3,
                         "unit": "g"
-                    },
-                    "optional": false,
-                    "notes": ""
-                },
-                {
-                    "name": "Unsalted Butter (melted)",
-                    "quantity": 12,
-                    "unit": "tbsp",
-                    "metric": {
-                        "quantity": 170,
-                        "unit": "g"
-                    },
-                    "optional": false,
-                    "notes": ""
-                }
-            ],
-            "instructions": []
-        },
-        {
-            "id": "lemon-filling",
-            "name": "Lemon Filling",
-            "ingredients": [
-                {
-                    "name": "Lemon Zest",
-                    "quantity": 3,
-                    "unit": "tbsp",
-                    "metric": {
-                        "quantity": 44,
-                        "unit": "g"
-                    },
-                    "optional": false,
-                    "notes": ""
-                },
-                {
-                    "name": "All-Purpose Flour",
-                    "quantity": 0.5,
-                    "unit": "cup",
-                    "metric": {
-                        "quantity": 60,
-                        "unit": "g"
-                    },
-                    "optional": false,
-                    "notes": ""
-                },
-                {
-                    "name": "Sugar",
-                    "quantity": 3,
-                    "unit": "cups",
-                    "metric": {
-                        "quantity": 600,
-                        "unit": "g"
-                    },
-                    "optional": false,
-                    "notes": ""
-                },
-                {
-                    "name": "Eggs",
-                    "quantity": 8,
-                    "unit": "large",
-                    "metric": {
-                        "quantity": 0,
-                        "unit": ""
-                    },
-                    "optional": false,
-                    "notes": "Room temperature"
-                },
-                {
-                    "name": "Lemon Juice",
-                    "quantity": 1,
-                    "unit": "cup",
-                    "metric": {
-                        "quantity": 240,
-                        "unit": "mL"
                     },
                     "optional": false,
                     "notes": ""
                 },
                 {
                     "name": "Powdered Sugar",
-                    "quantity": 0,
-                    "unit": "",
+                    "quantity": 2,
+                    "unit": "cups",
                     "metric": {
-                        "quantity": 0,
-                        "unit": ""
+                        "quantity": 240,
+                        "unit": "g"
                     },
-                    "optional": true,
-                    "notes": "For dusting"
+                    "optional": false,
+                    "notes": "For coating"
                 }
             ],
             "instructions": []
@@ -150,11 +132,15 @@
             "optional": false
         },
         {
-            "name": "Food Processor",
-            "optional": true
+            "name": "Hand or Stand Mixer",
+            "optional": false
         },
         {
-            "name": "9x13 Baking Dish",
+            "name": "Whisk",
+            "optional": false
+        },
+        {
+            "name": "Plastic Wrap",
             "optional": false
         },
         {
@@ -166,18 +152,21 @@
             "optional": false
         },
         {
-            "name": "Knife",
+            "name": "Baking Sheet",
             "optional": false
         },
         {
-            "name": "Zester",
+            "name": "Cookie Scoop or Spoon",
             "optional": false
         },
         {
-            "name": "Fruit Juicer",
+            "name": "Cooling Rack",
             "optional": false
         }
     ],
     "notes": [],
-    "tags": []
+    "tags": [
+        "chocolate",
+        "cookies"
+    ]
 }

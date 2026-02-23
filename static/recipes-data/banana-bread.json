@@ -1,7 +1,7 @@
 {
     "slug": "banana-bread",
     "title": "Banana Bread",
-    "thumbnail": "/recipes/banana-bread.webp",
+    "thumbnail": "/recipes-data/banana-bread.webp",
     "thumbnail_credit": "montana2358",
     "video": {
         "platform": "YouTube",
@@ -149,5 +149,8 @@
         }
     ],
     "notes": [],
-    "tags": []
+    "tags": [
+        "banana",
+        "bread"
+    ]
 }

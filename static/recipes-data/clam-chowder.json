@@ -1,7 +1,7 @@
 {
     "slug": "clam-chowder",
     "title": "Clam Chowder",
-    "thumbnail": "/recipes/clam-chowder.webp",
+    "thumbnail": "/recipes-data/clam-chowder.webp",
     "thumbnail_credit": "laura.quesadilla",
     "video": {
         "platform": "YouTube",
@@ -131,7 +131,7 @@
     ],
     "notes": [],
     "tags": [
-        "Clams",
-        "Soup"
+        "clams",
+        "soup"
     ]
 }
