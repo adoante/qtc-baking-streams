@@ -1,15 +1,27 @@
 <script lang="ts">
 	import type { PageProps } from './$types';
+	import Checkbox from '$lib/components/ui/checkbox/checkbox.svelte';
+	import Label from '$lib/components/ui/label/label.svelte';
+	import { Card, Content, Header } from '$lib/components/ui/card';
 
 	let { data }: PageProps = $props();
 	let recipe = data.recipe;
 </script>
 
-<main class="mx-auto flex w-full max-w-6xl flex-col justify-center space-y-10 p-5">
+<main class="mx-auto flex w-full max-w-7xl flex-col justify-center space-y-10 p-5">
 	<!-- Title and thumbnail -->
 	<h1 class="text-center text-4xl font-bold text-pink-400">{recipe.title}</h1>
 
-	<div class="flex flex-col items-center justify-center gap-10 md:flex-row">
+	<div class="flex flex-col items-center justify-center gap-10">
+		<Card class="justify-center rounded-none border-none text-center">
+			<Content>
+				<img src={recipe.thumbnail} alt={recipe.title} class="w-100" />
+			</Content>
+			<Header>
+				<p>Image provided by {recipe.thumbnail_credit}</p>
+			</Header>
+		</Card>
+
 		<!-- Video -->
 		{#if recipe.video?.url}
 			{#if recipe.video.platform == 'Twitch'}
@@ -47,11 +59,6 @@
 				</div>
 			{/if}
 		{/if}
-
-		<div class="text-center">
-			<img src={recipe.thumbnail} alt={recipe.title} width="300" />
-			<p>Image provided by {recipe.thumbnail_credit}</p>
-		</div>
 	</div>
 
 	<!-- Components (like dough, frosting) -->
@@ -61,17 +68,20 @@
 
 			<!-- Ingredients -->
 			<h3 class="text-2xl text-pink-500">Ingredients</h3>
-			<ul>
+			<div class="flex flex-col gap-2">
 				{#each component.ingredients as ing (ing.name)}
-					<li class="ml-6 list-disc leading-relaxed">
-						{ing.quantity}
-						{ing.unit}
-						{ing.name}
-						{#if ing.notes}
-							— <em>{ing.notes}</em>{/if}
-					</li>
+					<div class="flex flex-row items-center rounded-xl bg-pink-300 pl-4 md:w-1/2">
+						<Checkbox id={`${component.name}-${ing.name}`} />
+						<Label for={`${component.name}-${ing.name}`} class="w-full py-3 pl-3">
+							{ing.quantity}
+							{ing.unit}
+							{ing.name}
+							{#if ing.notes}
+								— <em>{ing.notes}</em>{/if}
+						</Label>
+					</div>
 				{/each}
-			</ul>
+			</div>
 
 			<!-- Instructions --->
 			{#if recipe.instructions?.length}
@@ -96,15 +106,19 @@
 
 	<!-- Tools -->
 	{#if recipe.tools?.length}
-		<section>
+		<section class="space-y-6">
 			<h2 class="text-3xl text-pink-400">Tools</h2>
-			<ul>
+			<div class="flex flex-col gap-2">
 				{#each recipe.tools as tool (tool)}
-					<li class="ml-6 list-disc leading-relaxed">
-						{tool.name}{tool.optional ? ' (optional)' : ''}
-					</li>
+					<div class="flex flex-row items-center rounded-xl bg-pink-300 pl-4 md:w-1/2">
+						<Checkbox id={tool.name} />
+						<Label for={tool.name} class="w-full py-3 pl-3">
+							{tool.name}
+							{tool.optional ? ' (optonal)' : ''}
+						</Label>
+					</div>
 				{/each}
-			</ul>
+			</div>
 		</section>
 	{/if}
 
