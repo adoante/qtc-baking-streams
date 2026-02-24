@@ -2,6 +2,9 @@
 	import type { PageProps } from '../$types';
 	import RecipeCard from '$lib/components/recipe-card.svelte';
 	import Input from '$lib/components/ui/input/input.svelte';
+	import Checkbox from '$lib/components/ui/checkbox/checkbox.svelte';
+	import Label from '$lib/components/ui/label/label.svelte';
+	import { SvelteSet } from 'svelte/reactivity';
 
 	type Recipe = {
 		title: string;
@@ -11,18 +14,47 @@
 	};
 
 	let { data }: PageProps = $props();
+	let recipes: Recipe[] = $state(data.recipes);
+	let selectedTags: string[] = $state([]);
+	let allTags = new SvelteSet<string>();
 
-	let recipes = $state(data.recipes);
+	data.recipes.forEach((recipe: Recipe) => {
+		recipe.tags.forEach((tag) => {
+			allTags.add(tag);
+		});
+	});
 
-	const search = (keyword: string) => {
+	function search(keyword: string) {
 		if (!keyword) {
 			recipes = data.recipes;
+			filterByTags(selectedTags);
 		} else {
-			recipes = data.recipes.filter((recipe: Recipe) =>
+			filterByTags(selectedTags);
+			recipes = recipes.filter((recipe: Recipe) =>
 				recipe.title.toLowerCase().includes(keyword.toLowerCase())
 			);
 		}
-	};
+	}
+
+	function filterByTags(keywords: string[]) {
+		if (!keywords || keywords.length === 0) {
+			recipes = data.recipes;
+		} else {
+			recipes = data.recipes.filter((recipe: Recipe) =>
+				keywords.every((keyword) => recipe.tags.includes(keyword))
+			);
+		}
+	}
+
+	function toggleTag(tag: string, checked: boolean) {
+		if (checked) {
+			selectedTags = [...selectedTags, tag];
+		} else {
+			selectedTags = selectedTags.filter((t) => t !== tag);
+		}
+
+		filterByTags(selectedTags);
+	}
 </script>
 
 <main class="mx-5 flex flex-col items-center space-y-10 text-center md:space-y-15">
@@ -30,10 +62,19 @@
 		type="search"
 		placeholder="keyword search"
 		oninput={(e) => search((e.target as HTMLInputElement).value)}
-		class="h-15 md:w-4xl"
+		class="h-15 max-w-4xl"
 	/>
 
-	<div class="flex flex-row flex-wrap items-center justify-center gap-10 md:mx-15">
+	<div class="flex max-w-5xl flex-row flex-wrap gap-3">
+		{#each allTags as tag (tag)}
+			<div class="flex flex-row items-center gap-3 rounded-md bg-pink-300 px-3 py-2 text-nowrap">
+				<Checkbox id={tag} onCheckedChange={(checked) => toggleTag(tag, checked === true)} />
+				<Label for={tag}>{tag}</Label>
+			</div>
+		{/each}
+	</div>
+
+	<div class="flex flex-row flex-wrap items-center justify-center gap-10">
 		{#each recipes as recipe (recipe.slug)}
 			<RecipeCard thumbnail={recipe.thumbnail} title={recipe.title} slug={recipe.slug} />
 		{/each}
