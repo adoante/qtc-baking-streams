@@ -13,7 +13,7 @@
 <a href="/recipe/{slug}" class="flex w-max items-center justify-center">
 	<Card class="justify-center rounded-none border-none text-center">
 		<Content>
-			<img src={thumbnail} alt={title} class="h-60 w-100 object-cover md:h-100" />
+			<img src={thumbnail} alt={title} class="h-60 w-65 object-cover md:h-95 md:w-95" />
 		</Content>
 		<Header>
 			<Title>{title}</Title>

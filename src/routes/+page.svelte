@@ -16,7 +16,7 @@
 		</div>
 	</div>
 
-	<div class="grid gap-10 px-10 md:grid-cols-4">
+	<div class="flex flex-row flex-wrap items-center justify-center gap-10 md:mx-15">
 		{#each data.recipes as recipe (recipe.slug)}
 			<RecipeCard thumbnail={recipe.thumbnail} title={recipe.title} slug={recipe.slug} />
 		{/each}
