@@ -6,15 +6,7 @@
 	let { data } = $props();
 </script>
 
-<motion.main
-	class="mx-5 flex flex-col items-center space-y-10 text-center md:space-y-25"
-	initial={{ opacity: 0, y: 12 }}
-	animate={{ opacity: 1, y: 0 }}
-	transition={{
-		duration: 1,
-		ease: [0.22, 1, 0.36, 1] // smooth “easeOutQuint”-style curve
-	}}
->
+<main class="mx-5 flex flex-col items-center space-y-10 text-center md:space-y-25">
 	<div class="flex flex-col items-center gap-15 md:flex-row md:gap-25">
 		<img src="/qtc-pic.jpg" alt="QTCinderella" width="512" class="rounded-full" />
 
@@ -38,4 +30,4 @@
 			{/each}
 		</Carousel.Content>
 	</Carousel.Root>
-</motion.main>
+</main>
