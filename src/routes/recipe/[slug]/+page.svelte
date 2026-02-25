@@ -70,9 +70,11 @@
 			<h3 class="text-2xl text-pink-500">Ingredients</h3>
 			<div class="flex flex-col gap-2">
 				{#each component.ingredients as ing (ing.name)}
-					<div class="flex flex-row items-center rounded-xl bg-pink-300 pl-4 md:w-1/2">
-						<Checkbox id={`${component.name}-${ing.name}`} />
-						<Label for={`${component.name}-${ing.name}`} class="w-full py-3 pl-3">
+					<div
+						class="flex flex-row items-center rounded-xl bg-pink-300 pl-4 hover:bg-pink-500 md:w-1/2"
+					>
+						<Checkbox id={`${component.name}-${ing.name}`} class="cursor-pointer" />
+						<Label for={`${component.name}-${ing.name}`} class="w-full cursor-pointer py-3 pl-3">
 							{ing.quantity}
 							{ing.unit}
 							{ing.name}
@@ -110,9 +112,11 @@
 			<h2 class="text-3xl text-pink-400">Tools</h2>
 			<div class="flex flex-col gap-2">
 				{#each recipe.tools as tool (tool)}
-					<div class="flex flex-row items-center rounded-xl bg-pink-300 pl-4 md:w-1/2">
+					<div
+						class="flex cursor-pointer flex-row items-center rounded-xl bg-pink-300 pl-4 hover:bg-pink-400 md:w-1/2"
+					>
 						<Checkbox id={tool.name} />
-						<Label for={tool.name} class="w-full py-3 pl-3">
+						<Label for={tool.name} class="w-full cursor-pointer py-3 pl-3">
 							{tool.name}
 							{tool.optional ? ' (optonal)' : ''}
 						</Label>

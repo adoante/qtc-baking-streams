@@ -5,6 +5,7 @@
 	import Checkbox from '$lib/components/ui/checkbox/checkbox.svelte';
 	import Label from '$lib/components/ui/label/label.svelte';
 	import { SvelteSet } from 'svelte/reactivity';
+	import { motion } from '@humanspeak/svelte-motion';
 
 	type Recipe = {
 		title: string;
@@ -67,16 +68,24 @@
 
 	<div class="flex max-w-5xl flex-row flex-wrap gap-3">
 		{#each allTags as tag (tag)}
-			<div class="flex flex-row items-center gap-3 rounded-md bg-pink-300 px-3 py-2 text-nowrap">
-				<Checkbox id={tag} onCheckedChange={(checked) => toggleTag(tag, checked === true)} />
-				<Label for={tag}>{tag}</Label>
+			<div
+				class="flex flex-row items-center rounded-md bg-pink-300 pl-2 text-nowrap hover:bg-pink-500"
+			>
+				<Checkbox
+					id={tag}
+					onCheckedChange={(checked) => toggleTag(tag, checked === true)}
+					class="cursor-pointer"
+				/>
+				<Label for={tag} class="cursor-pointer px-2 py-2">{tag}</Label>
 			</div>
 		{/each}
 	</div>
 
 	<div class="flex flex-row flex-wrap items-center justify-center gap-10">
 		{#each recipes as recipe (recipe.slug)}
-			<RecipeCard thumbnail={recipe.thumbnail} title={recipe.title} slug={recipe.slug} />
+			<motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 1.1 }}>
+				<RecipeCard thumbnail={recipe.thumbnail} title={recipe.title} slug={recipe.slug} />
+			</motion.div>
 		{/each}
 	</div>
 </main>
