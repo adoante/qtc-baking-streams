@@ -8,9 +8,12 @@
 
 <motion.main
 	class="mx-5 flex flex-col items-center space-y-10 text-center md:space-y-25"
-	animate={{ opacity: 1 }}
-	initial={{ opacity: 0 }}
-	transition={{ duration: 0.7 }}
+	initial={{ opacity: 0, y: 12 }}
+	animate={{ opacity: 1, y: 0 }}
+	transition={{
+		duration: 1,
+		ease: [0.22, 1, 0.36, 1] // smooth “easeOutQuint”-style curve
+	}}
 >
 	<div class="flex flex-col items-center gap-15 md:flex-row md:gap-25">
 		<img src="/qtc-pic.jpg" alt="QTCinderella" width="512" class="rounded-full" />
@@ -34,7 +37,5 @@
 				</Carousel.Item>
 			{/each}
 		</Carousel.Content>
-		<Carousel.Previous class="ml-10 md:ml-0" />
-		<Carousel.Next class="mr-10 md:mr-0" />
 	</Carousel.Root>
 </motion.main>
