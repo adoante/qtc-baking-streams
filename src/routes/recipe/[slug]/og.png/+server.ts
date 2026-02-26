@@ -1,10 +1,6 @@
 import { ImageResponse } from '@vercel/og';
 import type { RequestHandler } from './$types';
 
-export const config = {
-	runtime: 'edge'
-};
-
 export const GET: RequestHandler = async ({ params, fetch, url }) => {
 	const res = await fetch(`/recipes-data/${params.slug}.json`);
 
