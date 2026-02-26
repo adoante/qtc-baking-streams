@@ -10,6 +10,7 @@
 
 <svelte:head>
 	<meta property="og:title" content={recipe.title} />
+	<meta name="twitter:description" content="QTCinderella's Cookbook Recipes and Bake-a-longs!" />
 	<meta property="og:image" content={data.ogImage} />
 	<meta property="og:type" content="article" />
 	<meta property="twitter:card" content="summary_large_image" />

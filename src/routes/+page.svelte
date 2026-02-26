@@ -1,10 +1,17 @@
 <script lang="ts">
 	import RecipeCard from '$lib/components/recipe-card.svelte';
-	import { motion } from '@humanspeak/svelte-motion';
 	import * as Carousel from '$lib/components/ui/carousel/index.js';
 
 	let { data } = $props();
 </script>
+
+<svelte:head>
+	<meta property="og:title" content="QTCinderella Cookbook" />
+	<meta name="twitter:description" content="QTCinderella's Cookbook Recipes and Bake-a-longs!" />
+	<meta property="og:image" content={`${data.base_url}/og-image.png`} />
+	<meta property="og:type" content="article" />
+	<meta property="twitter:card" content="summary_large_image" />
+</svelte:head>
 
 <main class="mx-5 flex flex-col items-center space-y-10 text-center md:space-y-25">
 	<div class="flex flex-col items-center gap-15 md:flex-row md:gap-25">
