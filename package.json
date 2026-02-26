@@ -44,6 +44,8 @@
 		"vite": "^7.3.1"
 	},
 	"dependencies": {
-		"@humanspeak/svelte-motion": "^0.1.27"
+		"@humanspeak/svelte-motion": "^0.1.27",
+		"@vercel/og": "^0.9.0",
+		"satori": "^0.19.2"
 	}
 }

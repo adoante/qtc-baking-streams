@@ -8,6 +8,13 @@
 	let recipe = data.recipe;
 </script>
 
+<svelte:head>
+	<meta property="og:title" content={recipe.title} />
+	<meta property="og:image" content={data.ogImage} />
+	<meta property="og:type" content="article" />
+	<meta property="twitter:card" content="summary_large_image" />
+</svelte:head>
+
 <main class="mx-auto flex w-full max-w-7xl flex-col justify-center space-y-10 p-5">
 	<!-- Title and thumbnail -->
 	<h1 class="text-center text-4xl font-bold text-pink-400">{recipe.title}</h1>
