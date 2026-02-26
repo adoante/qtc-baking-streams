@@ -318,6 +318,30 @@ Guidelines:
 
 ---
 
+# Recipe Index
+
+Update the recipe index file `index.json` in `static/recipes-data` 
+
+You can run the `gen-index.py` python script while in the directory or manually add the entry.
+
+Example:
+
+```
+
+{
+    "slug": "apple-cobbler",
+    "title": "Apple Cobbler",
+    "thumbnail": "/recipes-data/apple-cobbler.webp",
+    "tags": [
+        "pie",
+        "apple"]
+},
+```
+
+```
+```
+
+
 # ✅ Before Submitting
 
 Please verify:

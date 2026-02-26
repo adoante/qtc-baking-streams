@@ -1,0 +1,156 @@
+{
+    "slug": "cornbread",
+    "title": "Cornbread",
+    "thumbnail": "/recipes-data/cornbread.webp",
+    "thumbnail_credit": "QT's VOD",
+    "video": {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/embed/LLWw2qK60rw"
+    },
+    "servings": 24,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 20,
+    "temperature": {
+        "fahrenheit": 350,
+        "celsius": 177
+    },
+    "components": [
+        {
+            "id": "cornbread",
+            "name": "Cornbread",
+            "ingredients": [
+                {
+                    "name": "flour",
+                    "quantity": 9.21,
+                    "unit": "oz",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "corn meal",
+                    "quantity": 9.21,
+                    "unit": "oz",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "sugar",
+                    "quantity": 3,
+                    "unit": "oz",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "salt",
+                    "quantity": 0.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": 0.4,
+                    "unit": "oz",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "baking soda",
+                    "quantity": 0.23,
+                    "unit": "oz",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "eggs",
+                    "quantity": 2,
+                    "unit": "count",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "buttermilk",
+                    "quantity": 18,
+                    "unit": "oz",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "honey",
+                    "quantity": 1,
+                    "unit": "oz",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "melted butter",
+                    "quantity": 8,
+                    "unit": "oz",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "sour cream",
+                    "quantity": 4,
+                    "unit": "oz",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        }
+    ],
+    "tools": [],
+    "notes": [
+        "Makes approximately 2 dozen muffins."
+    ],
+    "tags": [
+        "bread",
+        "muffins",
+        "corn"
+    ]
+}
