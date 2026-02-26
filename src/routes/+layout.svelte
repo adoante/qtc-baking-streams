@@ -23,7 +23,7 @@
 				>
 			</li>
 			<li class="rounded-md px-1 py-1 hover:bg-white"><a href="/recipe">Recipes</a></li>
-			<li class="rounded-md px-1 py-1 hover:bg-white"><a href="/about">About</a></li>
+			<li class="rounded-md px-1 py-1 hover:bg-white"><a href="/project-info">Project Info</a></li>
 		</ul>
 	</nav>
 
@@ -43,7 +43,7 @@
 				</a>
 			</li>
 			<li><a href="/recipe">Recipes</a></li>
-			<li><a href="/about">About</a></li>
+			<li><a href="/project-info">Project Info</a></li>
 			<li>
 				<a href="https://www.adolfogante.com/">Website built by ado-ante</a>
 			</li>
