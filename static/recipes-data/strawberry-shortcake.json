@@ -1,0 +1,201 @@
+{
+    "slug": "strawberry-shortcake",
+    "title": "Strawberry Shortcake",
+    "thumbnail": "/recipes-data/strawberry-shortcake.webp",
+    "thumbnail_credit": "drcaptain_1",
+    "video": {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/embed/YD-2iLoXrkE"
+    },
+    "servings": 0,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 0,
+    "temperature": {
+        "fahrenheit": 0,
+        "celsius": 0
+    },
+    "components": [
+        {
+            "id": "shortcake",
+            "name": "Shortcake",
+            "ingredients": [
+                {
+                    "name": "all-purpose flour",
+                    "quantity": 4,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 500,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "granulated sugar",
+                    "quantity": 3,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "salt",
+                    "quantity": 0.25,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": 5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "butter",
+                    "quantity": 0.75,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 170,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "softened"
+                },
+                {
+                    "name": "butter",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 113,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "melted"
+                },
+                {
+                    "name": "whipping cream",
+                    "quantity": 1.25,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 298,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "or heavy cream"
+                },
+                {
+                    "name": "nonstick spray",
+                    "quantity": 0,
+                    "unit": "",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "pam"
+                }
+            ],
+            "instructions": []
+        },
+        {
+            "id": "topping",
+            "name": "Topping",
+            "ingredients": [
+                {
+                    "name": "strawberries",
+                    "quantity": 2,
+                    "unit": "pints",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "ripe, well-rinsed"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 100,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "or more to taste"
+                },
+                {
+                    "name": "whipping cream",
+                    "quantity": 1.75,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 416,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "or whipped cream"
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": 0.25,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "omit if using store-bought whipped cream"
+                }
+            ],
+            "instructions": []
+        }
+    ],
+    "tools": [
+        {
+            "name": "oven",
+            "optional": false
+        },
+        {
+            "name": "mixing bowls",
+            "optional": false
+        },
+        {
+            "name": "baking sheet",
+            "optional": false
+        },
+        {
+            "name": "hand or stand mixer",
+            "optional": false
+        },
+        {
+            "name": "rolling pin",
+            "optional": false
+        },
+        {
+            "name": "3 inch biscuit or cookie cutter",
+            "optional": false
+        },
+        {
+            "name": "pastry brush",
+            "optional": true
+        }
+    ],
+    "notes": [],
+    "tags": [
+        "strawberry",
+        "shortcake",
+        "cake"
+    ]
+}

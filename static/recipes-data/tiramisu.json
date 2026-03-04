@@ -1,0 +1,252 @@
+{
+    "slug": "tiramisu",
+    "title": "Tiramisu",
+    "thumbnail": "/recipes-data/tiramisu.webp",
+    "thumbnail_credit": "hanbam0916",
+    "video": {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/embed/ChwhqwnvPrE"
+    },
+    "servings": 0,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 0,
+    "temperature": {
+        "fahrenheit": 0,
+        "celsius": 0
+    },
+    "components": [
+        {
+            "id": "tiramisu",
+            "name": "Tiramisu",
+            "ingredients": [
+                {
+                    "name": "espresso or strong coffee",
+                    "quantity": 1.5,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 360,
+                        "unit": "ml"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "dark rum",
+                    "quantity": 0.75,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 180,
+                        "unit": "ml"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "mascarpone cheese",
+                    "quantity": 16,
+                    "unit": "oz",
+                    "metric": {
+                        "quantity": 452,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "eggs",
+                    "quantity": 6,
+                    "unit": "count",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "large"
+                },
+                {
+                    "name": "granulated sugar",
+                    "quantity": 0.6667,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 133,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "heavy whipping cream",
+                    "quantity": 2,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 480,
+                        "unit": "ml"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": 2,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "ladyfingers",
+                    "quantity": 40,
+                    "unit": "count",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "unsweetened cocoa powder",
+                    "quantity": 0.3333,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 33,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        },
+        {
+            "id": "ladyfingers",
+            "name": "Ladyfingers (Optional)",
+            "ingredients": [
+                {
+                    "name": "eggs",
+                    "quantity": 3,
+                    "unit": "count",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": true,
+                    "notes": "large"
+                },
+                {
+                    "name": "granulated sugar",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 100,
+                        "unit": "g"
+                    },
+                    "optional": true,
+                    "notes": ""
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": 0.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": true,
+                    "notes": ""
+                },
+                {
+                    "name": "salt",
+                    "quantity": 0.25,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": true,
+                    "notes": ""
+                },
+                {
+                    "name": "all-purpose flour",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 120,
+                        "unit": "g"
+                    },
+                    "optional": true,
+                    "notes": ""
+                },
+                {
+                    "name": "cornstarch",
+                    "quantity": 5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": true,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        }
+    ],
+    "tools": [
+        {
+            "name": "mixing bowls",
+            "optional": false
+        },
+        {
+            "name": "electric mixer",
+            "optional": false
+        },
+        {
+            "name": "measuring cups and spoons",
+            "optional": false
+        },
+        {
+            "name": "whisk",
+            "optional": false
+        },
+        {
+            "name": "spatula",
+            "optional": false
+        },
+        {
+            "name": "large shallow dish",
+            "optional": false
+        },
+        {
+            "name": "rectangular serving dish",
+            "optional": false
+        },
+        {
+            "name": "sifter or fine mesh sieve",
+            "optional": true
+        },
+        {
+            "name": "piping bag with round tip",
+            "optional": true
+        },
+        {
+            "name": "baking sheets",
+            "optional": true
+        },
+        {
+            "name": "parchment paper",
+            "optional": true
+        }
+    ],
+    "notes": [
+        "Ladyfingers can be store-bought for an easier version."
+    ],
+    "tags": [
+        "tiramisu",
+        "coffee",
+        "mascarpone"
+    ]
+}

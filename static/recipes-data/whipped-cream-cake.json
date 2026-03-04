@@ -1,0 +1,198 @@
+{
+    "slug": "whipped-cream-cake",
+    "title": "Whipped Cream Cake",
+    "thumbnail": "/recipes/whipped-cream-cake.webp",
+    "thumbnail_credit": "",
+    "video": {
+        "platform": "",
+        "url": ""
+    },
+    "servings": 16,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 90,
+    "temperature": {
+        "fahrenheit": 325,
+        "celsius": 163
+    },
+    "components": [
+        {
+            "id": "cake",
+            "name": "Cake",
+            "ingredients": [
+                {
+                    "name": "butter",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "softened"
+                },
+                {
+                    "name": "sugar",
+                    "quantity": 3,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "eggs",
+                    "quantity": 6,
+                    "unit": "count",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "cake flour",
+                    "quantity": 3,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "sifted"
+                },
+                {
+                    "name": "heavy whipping cream",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "lemon extract",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "fresh berries or fruit",
+                    "quantity": 0,
+                    "unit": "",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "to garnish"
+                },
+                {
+                    "name": "confectioners sugar",
+                    "quantity": 0,
+                    "unit": "",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "for garnish"
+                }
+            ],
+            "instructions": [
+                {
+                    "step": 1,
+                    "title": "Preheat Oven",
+                    "actions": [
+                        "Heat oven to 325 degrees."
+                    ],
+                    "timer_minutes": 0
+                },
+                {
+                    "step": 2,
+                    "title": "Cream Butter and Sugar",
+                    "actions": [
+                        "Cream the butter and sugar in a mixing bowl until light and fluffy."
+                    ],
+                    "timer_minutes": 0
+                },
+                {
+                    "step": 3,
+                    "title": "Mix Batter",
+                    "actions": [
+                        "Add the eggs, flour and whipping cream and mix well."
+                    ],
+                    "timer_minutes": 0
+                },
+                {
+                    "step": 4,
+                    "title": "Add Flavorings",
+                    "actions": [
+                        "Stir in vanilla extract and lemon extract."
+                    ],
+                    "timer_minutes": 0
+                },
+                {
+                    "step": 5,
+                    "title": "Fill Pan",
+                    "actions": [
+                        "Spoon batter into a greased and floured bundt pan."
+                    ],
+                    "timer_minutes": 0
+                },
+                {
+                    "step": 6,
+                    "title": "Bake",
+                    "actions": [
+                        "Bake until it tests done."
+                    ],
+                    "timer_minutes": 90
+                },
+                {
+                    "step": 7,
+                    "title": "Cool",
+                    "actions": [
+                        "Cool in pan for several minutes.",
+                        "Invert onto wire rack and cool completely."
+                    ],
+                    "timer_minutes": 0
+                },
+                {
+                    "step": 8,
+                    "title": "Garnish",
+                    "actions": [
+                        "Garnish with confectioners sugar and fresh berries."
+                    ],
+                    "timer_minutes": 0
+                }
+            ]
+        }
+    ],
+    "tools": [],
+    "notes": [],
+    "tags": [
+        "cake",
+        "bundt-cake",
+        "no-vod"
+    ]
+}

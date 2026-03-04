@@ -1,0 +1,510 @@
+{
+    "slug": "viral-milk-bar-pumpkin-pie",
+    "title": "Viral Milk Bar Pumpkin Pie",
+    "thumbnail": "/recipes-data/viral-milk-bar-pumpkin-pie.webp",
+    "thumbnail_credit": "Ashe (ashe0788)",
+    "video": {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/embed/OZPaF1-c_6c"
+    },
+    "servings": 0,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 0,
+    "temperature": {
+        "fahrenheit": 0,
+        "celsius": 0
+    },
+    "components": [
+        {
+            "id": "caramel",
+            "name": "Caramel",
+            "ingredients": [
+                {
+                    "name": "granulated sugar",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "heavy cream",
+                    "quantity": 0.3333,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "unsalted butter",
+                    "quantity": 6,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": 0.25,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "light corn syrup",
+                    "quantity": 2,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "salt",
+                    "quantity": 2,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": 2,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        },
+        {
+            "id": "pie-crust",
+            "name": "Pie Crust",
+            "ingredients": [
+                {
+                    "name": "flour",
+                    "quantity": 1.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "unsalted butter",
+                    "quantity": 12,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "fine ground cornmeal",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "granulated sugar",
+                    "quantity": 1,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "salt",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "water",
+                    "quantity": 0.25,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "apple cider vinegar",
+                    "quantity": 2,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        },
+        {
+            "id": "pumpkin-filling",
+            "name": "Pumpkin Filling",
+            "ingredients": [
+                {
+                    "name": "pumpkin puree",
+                    "quantity": 30,
+                    "unit": "oz",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "2 standard 15oz cans"
+                },
+                {
+                    "name": "heavy cream",
+                    "quantity": 1.25,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 277,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "light corn syrup",
+                    "quantity": 0.3333,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 129,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "unsalted butter",
+                    "quantity": 5,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 64,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "white chocolate chips",
+                    "quantity": 2.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 443,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "or chopped white chocolate"
+                },
+                {
+                    "name": "cinnamon",
+                    "quantity": 2,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "cardamom",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "allspice",
+                    "quantity": 0.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "ginger",
+                    "quantity": 0.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "nutmeg",
+                    "quantity": 1,
+                    "unit": "pinch",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "clove",
+                    "quantity": 1,
+                    "unit": "pinch",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "pumpkin pie spice",
+                    "quantity": 3,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": true,
+                    "notes": "substitute for cinnamon through clove"
+                },
+                {
+                    "name": "salt",
+                    "quantity": 0.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        },
+        {
+            "id": "streusel",
+            "name": "Streusel",
+            "ingredients": [
+                {
+                    "name": "flour",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "light brown sugar",
+                    "quantity": 0.3333,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "oats",
+                    "quantity": 0.3333,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "unsalted butter",
+                    "quantity": 6,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "cinnamon",
+                    "quantity": 2,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "cardamom",
+                    "quantity": 0.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "salt",
+                    "quantity": 1,
+                    "unit": "pinch",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "big pinch"
+                }
+            ],
+            "instructions": []
+        },
+        {
+            "id": "whipped-cream-topping",
+            "name": "Whipped Cream Topping",
+            "ingredients": [
+                {
+                    "name": "whipping cream",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": true,
+                    "notes": ""
+                },
+                {
+                    "name": "powdered sugar",
+                    "quantity": 0.3333,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": true,
+                    "notes": ""
+                },
+                {
+                    "name": "vanilla",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": true,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        }
+    ],
+    "tools": [
+        {
+            "name": "whisk",
+            "optional": false
+        },
+        {
+            "name": "spatula",
+            "optional": false
+        },
+        {
+            "name": "parchment paper",
+            "optional": false
+        },
+        {
+            "name": "saucepan",
+            "optional": false
+        },
+        {
+            "name": "stove top",
+            "optional": false
+        },
+        {
+            "name": "oven",
+            "optional": false
+        },
+        {
+            "name": "mixing bowls",
+            "optional": false
+        },
+        {
+            "name": "pie pan",
+            "optional": false
+        },
+        {
+            "name": "baking sheet",
+            "optional": false
+        },
+        {
+            "name": "pie weights",
+            "optional": true
+        }
+    ],
+    "notes": [
+        "Caramel, pie crust, and whipped cream can be store-bought to simplify the recipe."
+    ],
+    "tags": [
+        "pumpkin",
+        "pie"
+    ]
+}

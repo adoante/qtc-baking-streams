@@ -1,11 +1,11 @@
 {
-    "slug": "chocolate-chip-cookies",
-    "title": "Chocolate Chip Cookies",
-    "thumbnail": "/recipes-data/chocolate-chip-cookies.webp",
-    "thumbnail_credit": "ado-ante",
+    "slug": "texas-fudge-cake",
+    "title": "Texas Fudge Cake",
+    "thumbnail": "/recipes-data/texas-fudge-cake.webp",
+    "thumbnail_credit": "",
     "video": {
-        "platform": "YouTube",
-        "url": "https://www.youtube.com/embed/_HHL3Gf3jiw"
+        "platform": "youtube",
+        "url": "https://www.youtube.com/embed/Bp-hgvuAGhE"
     },
     "servings": 0,
     "prep_time_minutes": 0,
@@ -16,22 +16,22 @@
     },
     "components": [
         {
-            "id": "cookie-dough",
-            "name": "Cookie Dough",
+            "id": "cake",
+            "name": "Cake",
             "ingredients": [
                 {
-                    "name": "Butter",
-                    "quantity": 1,
+                    "name": "unsweetened cocoa powder",
+                    "quantity": 0.3333,
                     "unit": "cup",
                     "metric": {
                         "quantity": 0,
                         "unit": ""
                     },
                     "optional": false,
-                    "notes": "Softened"
+                    "notes": ""
                 },
                 {
-                    "name": "Granulated Sugar",
+                    "name": "coffee",
                     "quantity": 1,
                     "unit": "cup",
                     "metric": {
@@ -42,7 +42,7 @@
                     "notes": ""
                 },
                 {
-                    "name": "Brown Sugar",
+                    "name": "unsalted butter",
                     "quantity": 1,
                     "unit": "cup",
                     "metric": {
@@ -50,33 +50,11 @@
                         "unit": ""
                     },
                     "optional": false,
-                    "notes": ""
+                    "notes": "2 sticks"
                 },
                 {
-                    "name": "Vanilla Extract",
+                    "name": "all-purpose flour",
                     "quantity": 2,
-                    "unit": "tsp",
-                    "metric": {
-                        "quantity": 0,
-                        "unit": ""
-                    },
-                    "optional": false,
-                    "notes": ""
-                },
-                {
-                    "name": "Eggs",
-                    "quantity": 2,
-                    "unit": "large",
-                    "metric": {
-                        "quantity": 0,
-                        "unit": ""
-                    },
-                    "optional": false,
-                    "notes": ""
-                },
-                {
-                    "name": "All-Purpose Flour",
-                    "quantity": 3,
                     "unit": "cups",
                     "metric": {
                         "quantity": 0,
@@ -86,7 +64,18 @@
                     "notes": ""
                 },
                 {
-                    "name": "Baking Soda",
+                    "name": "granulated sugar",
+                    "quantity": 2,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "baking soda",
                     "quantity": 1,
                     "unit": "tsp",
                     "metric": {
@@ -97,7 +86,7 @@
                     "notes": ""
                 },
                 {
-                    "name": "Baking Powder",
+                    "name": "salt",
                     "quantity": 0.5,
                     "unit": "tsp",
                     "metric": {
@@ -108,8 +97,81 @@
                     "notes": ""
                 },
                 {
-                    "name": "Salt",
-                    "quantity": 1.5,
+                    "name": "eggs",
+                    "quantity": 2,
+                    "unit": "count",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "large, lightly beaten"
+                },
+                {
+                    "name": "buttermilk",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        },
+        {
+            "id": "frosting",
+            "name": "Frosting",
+            "ingredients": [
+                {
+                    "name": "milk",
+                    "quantity": 0.3333,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "cocoa",
+                    "quantity": 0.25,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "butter",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "vanilla",
+                    "quantity": 1,
                     "unit": "tsp",
                     "metric": {
                         "quantity": 0,
@@ -119,8 +181,8 @@
                     "notes": ""
                 },
                 {
-                    "name": "Chocolate Chips or Chopped Chocolate",
-                    "quantity": 1.5,
+                    "name": "powdered sugar",
+                    "quantity": 3.5,
                     "unit": "cups",
                     "metric": {
                         "quantity": 0,
@@ -128,17 +190,6 @@
                     },
                     "optional": false,
                     "notes": ""
-                },
-                {
-                    "name": "Chopped Nuts",
-                    "quantity": 1,
-                    "unit": "cup",
-                    "metric": {
-                        "quantity": 0,
-                        "unit": ""
-                    },
-                    "optional": true,
-                    "notes": "Optional"
                 }
             ],
             "instructions": []
@@ -146,34 +197,29 @@
     ],
     "tools": [
         {
-            "name": "Oven",
-            "optional": false
-        },
-        {
-            "name": "Mixing Bowls",
-            "optional": false
-        },
-        {
-            "name": "Cookie Sheet",
-            "optional": false
-        },
-        {
-            "name": "Measuring Cups",
-            "optional": false
-        },
-        {
-            "name": "Mixer",
+            "name": "offset spatula",
             "optional": true
         },
         {
-            "name": "Parchment Paper",
+            "name": "mixing bowls",
+            "optional": false
+        },
+        {
+            "name": "measuring cups and spoons",
+            "optional": false
+        },
+        {
+            "name": "mixer",
+            "optional": true
+        },
+        {
+            "name": "9x13 pan",
             "optional": false
         }
     ],
     "notes": [],
     "tags": [
         "chocolate",
-        "cookies",
-        "vod"
+        "cake"
     ]
 }
