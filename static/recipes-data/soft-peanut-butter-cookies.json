@@ -1,0 +1,168 @@
+{
+    "slug": "soft-peanut-butter-cookies",
+    "title": "Soft Peanut Butter Cookies",
+    "thumbnail": "/recipes-data/soft-peanut-butter-cookies.webp",
+    "thumbnail_credit": "Starlight_bri",
+    "video": {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/embed/XKPUqdJ00fc"
+    },
+    "servings": 0,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 0,
+    "temperature": {
+        "fahrenheit": 0,
+        "celsius": 0
+    },
+    "components": [
+        {
+            "id": "cookie-dough",
+            "name": "Cookie Dough",
+            "ingredients": [
+                {
+                    "name": "creamy peanut butter",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 240,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "brown sugar",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 200,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "packed"
+                },
+                {
+                    "name": "white sugar",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 200,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "butter or margarine",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 227,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "softened"
+                },
+                {
+                    "name": "eggs",
+                    "quantity": 2,
+                    "unit": "count",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "baking soda",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 6,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 4.79,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 4.2,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "flour",
+                    "quantity": 2.5,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 312.5,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        }
+    ],
+    "tools": [
+        {
+            "name": "mixing bowls",
+            "optional": false
+        },
+        {
+            "name": "mixer",
+            "optional": false
+        },
+        {
+            "name": "whisk",
+            "optional": false
+        },
+        {
+            "name": "spatula",
+            "optional": false
+        },
+        {
+            "name": "baking sheets",
+            "optional": false
+        },
+        {
+            "name": "parchment paper or baking mat",
+            "optional": false
+        },
+        {
+            "name": "fork",
+            "optional": false
+        },
+        {
+            "name": "measuring cups",
+            "optional": false
+        },
+        {
+            "name": "cooling rack",
+            "optional": false
+        }
+    ],
+    "notes": [],
+    "tags": [
+        "peanut-butter",
+        "cookies"
+    ]
+}

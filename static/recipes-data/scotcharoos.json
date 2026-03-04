@@ -1,0 +1,121 @@
+{
+    "slug": "scotcharoos",
+    "title": "Scotcharoos",
+    "thumbnail": "/recipes-data/scotcharoos.webp",
+    "thumbnail_credit": "Hulee_Hoop",
+    "video": {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/embed/Rn8U25rEAUw"
+    },
+    "servings": 0,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 0,
+    "temperature": {
+        "fahrenheit": 0,
+        "celsius": 0
+    },
+    "components": [
+        {
+            "id": "scotcharoos",
+            "name": "Scotcharoos",
+            "ingredients": [
+                {
+                    "name": "sugar",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "corn syrup",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "peanut butter",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "puffed rice cereal",
+                    "quantity": 6,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "milk or semi sweet chocolate chips",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "butterscotch chips",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        }
+    ],
+    "tools": [
+        {
+            "name": "mixing bowls",
+            "optional": false
+        },
+        {
+            "name": "9x13 casserole dish",
+            "optional": false
+        },
+        {
+            "name": "measuring cups",
+            "optional": false
+        },
+        {
+            "name": "pot",
+            "optional": false
+        },
+        {
+            "name": "stove top",
+            "optional": false
+        }
+    ],
+    "notes": [
+        "Do not boil the peanut butter mixture too long or it will become very hard."
+    ],
+    "tags": [
+        "scotcharoos",
+        "peanut-butter"
+    ]
+}

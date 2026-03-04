@@ -1,0 +1,222 @@
+{
+    "slug": "caramel-apple-scones",
+    "title": "Caramel Apple Scones",
+    "thumbnail": "/recipes-data/caramel-apple-scones.webp",
+    "thumbnail_credit": "Alanberry",
+    "video": {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/embed/hMdcKDt6pPc"
+    },
+    "servings": 8,
+    "prep_time_minutes": 0,
+    "cook_time_minutes": 0,
+    "temperature": {
+        "fahrenheit": 0,
+        "celsius": 0
+    },
+    "components": [
+        {
+            "id": "caramel-apple-scones",
+            "name": "Caramel Apple Scones",
+            "ingredients": [
+                {
+                    "name": "all-purpose flour",
+                    "quantity": 2,
+                    "unit": "cups",
+                    "metric": {
+                        "quantity": 240,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "plus more for hands and work surface"
+                },
+                {
+                    "name": "baking powder",
+                    "quantity": 2.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "ground cinnamon",
+                    "quantity": 1.25,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "salt",
+                    "quantity": 0.5,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "unsalted butter",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 115,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "frozen"
+                },
+                {
+                    "name": "heavy cream",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 120,
+                        "unit": "ml"
+                    },
+                    "optional": false,
+                    "notes": "plus 2 tbsp for brushing"
+                },
+                {
+                    "name": "egg",
+                    "quantity": 1,
+                    "unit": "count",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": "large"
+                },
+                {
+                    "name": "brown sugar",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 100,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "packed"
+                },
+                {
+                    "name": "vanilla extract",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "apple",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 125,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "peeled and chopped"
+                },
+                {
+                    "name": "coarse sugar",
+                    "quantity": 0,
+                    "unit": "",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": true,
+                    "notes": "for topping"
+                }
+            ],
+            "instructions": []
+        },
+        {
+            "id": "caramel-sauce",
+            "name": "Caramel Sauce",
+            "ingredients": [
+                {
+                    "name": "granulated sugar",
+                    "quantity": 1,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 200,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "salted butter",
+                    "quantity": 6,
+                    "unit": "tbsp",
+                    "metric": {
+                        "quantity": 90,
+                        "unit": "g"
+                    },
+                    "optional": false,
+                    "notes": "room temperature cut into pieces"
+                },
+                {
+                    "name": "heavy cream",
+                    "quantity": 0.5,
+                    "unit": "cup",
+                    "metric": {
+                        "quantity": 120,
+                        "unit": "ml"
+                    },
+                    "optional": false,
+                    "notes": ""
+                },
+                {
+                    "name": "salt",
+                    "quantity": 1,
+                    "unit": "tsp",
+                    "metric": {
+                        "quantity": 0,
+                        "unit": ""
+                    },
+                    "optional": false,
+                    "notes": ""
+                }
+            ],
+            "instructions": []
+        }
+    ],
+    "tools": [
+        {
+            "name": "baking sheet",
+            "optional": false
+        },
+        {
+            "name": "mixing bowls",
+            "optional": false
+        },
+        {
+            "name": "cheese grater",
+            "optional": false
+        },
+        {
+            "name": "parchment paper",
+            "optional": true
+        }
+    ],
+    "notes": [],
+    "tags": [
+        "apples",
+        "scones",
+        "caramel"
+    ]
+}
