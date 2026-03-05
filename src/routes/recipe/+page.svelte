@@ -42,6 +42,7 @@
 				recipe.title.toLowerCase().includes(keyword.toLowerCase())
 			);
 		}
+		sortByDate(sortByAgeValue === 'newest');
 	}
 
 	function filterByTags(keywords: string[]) {
@@ -62,6 +63,7 @@
 		}
 
 		filterByTags(selectedTags);
+		sortByDate(sortByAgeValue === 'newest');
 	}
 
 	function sortByDate(reversed: boolean) {
@@ -70,8 +72,6 @@
 		} else {
 			recipes.sort((a: Recipe, b: Recipe) => a.date.epoch - b.date.epoch);
 		}
-
-		console.log(recipes);
 	}
 
 	const sortByAge = [
