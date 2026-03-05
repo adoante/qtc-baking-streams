@@ -183,5 +183,9 @@
         "lemon",
         "bars",
         "vod"
-    ]
+    ],
+    "date": {
+        "epoch": 1748832987,
+        "human-readable": "Sun, 01 Jun 2025 19:56:27"
+    }
 }

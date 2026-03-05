@@ -25,4 +25,4 @@ index = {
 }
 
 with open("./index.json", "w") as f:
-    json.dump(index, f, ensure_ascii=False)
+    json.dump(index, f, ensure_ascii=False, indent=4)

@@ -225,5 +225,9 @@
         "pie",
         "apple",
         "vod"
-    ]
+    ],
+    "date": {
+        "epoch": 1758562719,
+        "human-readable": "Mon, 22 Sep 2025 10:38:39"
+    }
 }

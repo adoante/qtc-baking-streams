@@ -134,5 +134,9 @@
         "clams",
         "soup",
         "vod"
-    ]
+    ],
+    "date": {
+        "epoch": 1762211186,
+        "human-readable": "Mon, 03 Nov 2025 15:06:26"
+    }
 }
