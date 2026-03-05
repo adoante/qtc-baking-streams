@@ -6,12 +6,19 @@
 	import Label from '$lib/components/ui/label/label.svelte';
 	import { SvelteSet } from 'svelte/reactivity';
 	import { motion } from '@humanspeak/svelte-motion';
+	import * as Select from '$lib/components/ui/select/index';
+
+	type RecipeDate = {
+		epoch: number;
+		humanReadable: string;
+	};
 
 	type Recipe = {
 		title: string;
 		thumbnail: string;
 		slug: string;
 		tags: string[];
+		date: RecipeDate;
 	};
 
 	let { data }: PageProps = $props();
@@ -56,6 +63,25 @@
 
 		filterByTags(selectedTags);
 	}
+
+	function sortByDate(reversed: boolean) {
+		if (reversed) {
+			recipes.sort((a: Recipe, b: Recipe) => b.date.epoch - a.date.epoch);
+		} else {
+			recipes.sort((a: Recipe, b: Recipe) => a.date.epoch - b.date.epoch);
+		}
+
+		console.log(recipes);
+	}
+
+	const sortByAge = [
+		{ value: 'newest', label: 'Newest' },
+		{ value: 'oldest', label: 'Oldest' }
+	];
+	let sortByAgeValue = $state('');
+	const triggerContent = $derived(
+		sortByAge.find((f) => f.value === sortByAgeValue)?.label ?? 'Sort by Age'
+	);
 </script>
 
 <main class="mx-5 flex flex-col items-center space-y-10 text-center md:space-y-15">
@@ -65,6 +91,18 @@
 		oninput={(e) => search((e.target as HTMLInputElement).value)}
 		class="h-15 max-w-4xl"
 	/>
+
+	<Select.Root
+		type="single"
+		onValueChange={(value) => sortByDate(value === 'newest')}
+		bind:value={sortByAgeValue}
+	>
+		<Select.Trigger class="w-45 bg-pink-300">{triggerContent}</Select.Trigger>
+		<Select.Content class="text-black">
+			<Select.Item value="newest">Newest</Select.Item>
+			<Select.Item value="oldest">Oldest</Select.Item>
+		</Select.Content>
+	</Select.Root>
 
 	<div class="flex max-w-5xl flex-row flex-wrap gap-3">
 		{#each allTags as tag (tag)}

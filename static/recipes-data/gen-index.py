@@ -15,7 +15,8 @@ for file in file_names:
             "slug": recipe["slug"],
             "title": recipe["title"],
             "thumbnail": "/recipes-data/" + recipe["slug"] + ".webp",
-            "tags": recipe["tags"]
+            "tags": recipe["tags"],
+            "date": recipe["date"]
         }
 
         recipes.append(recipe_index)

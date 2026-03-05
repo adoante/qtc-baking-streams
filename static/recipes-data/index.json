@@ -8,7 +8,11 @@
                 "cake",
                 "bundt-cake",
                 "no-vod"
-            ]
+            ],
+            "date": {
+                "epoch": 0,
+                "human-readable": ""
+            }
         },
         {
             "slug": "chai-cake",
@@ -18,7 +22,11 @@
                 "chai",
                 "cake",
                 "no-vod"
-            ]
+            ],
+            "date": {
+                "epoch": 0,
+                "human-readable": ""
+            }
         },
         {
             "slug": "apple-cobbler",
@@ -28,7 +36,11 @@
                 "pie",
                 "apple",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1758562719,
+                "human-readable": "Mon, 22 Sep 2025 10:38:39"
+            }
         },
         {
             "slug": "apple-streusel-muffins",
@@ -39,7 +51,11 @@
                 "muffins",
                 "streusel",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1728387893,
+                "human-readable": "Tue, 08 Oct 2024 04:44:53"
+            }
         },
         {
             "slug": "banana-bread",
@@ -49,7 +65,11 @@
                 "banana",
                 "bread",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1749485303,
+                "human-readable": "Mon, 09 Jun 2025 09:08:23"
+            }
         },
         {
             "slug": "chocolate-chip-cookies",
@@ -59,7 +79,11 @@
                 "chocolate",
                 "cookies",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1720446848,
+                "human-readable": "Mon, 08 Jul 2024 06:54:08"
+            }
         },
         {
             "slug": "chocolate-crinkle-cookies",
@@ -69,7 +93,11 @@
                 "chocolate",
                 "cookies",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1750027967,
+                "human-readable": "Sun, 15 Jun 2025 15:52:47"
+            }
         },
         {
             "slug": "clam-chowder",
@@ -79,7 +107,11 @@
                 "clams",
                 "soup",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1762211186,
+                "human-readable": "Mon, 03 Nov 2025 15:06:26"
+            }
         },
         {
             "slug": "cornbread",
@@ -90,7 +122,11 @@
                 "muffins",
                 "corn",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1760380597,
+                "human-readable": "Mon, 13 Oct 2025 11:36:37"
+            }
         },
         {
             "slug": "fruit-pizza",
@@ -100,7 +136,11 @@
                 "fruit",
                 "tart",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1748217330,
+                "human-readable": "Sun, 25 May 2025 16:55:30"
+            }
         },
         {
             "slug": "jinx-cupcakes",
@@ -112,7 +152,11 @@
                 "chocolate",
                 "coffee",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1731344550,
+                "human-readable": "Mon, 11 Nov 2024 09:02:30"
+            }
         },
         {
             "slug": "lemon-bars",
@@ -122,7 +166,11 @@
                 "lemon",
                 "bars",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1748832987,
+                "human-readable": "Sun, 01 Jun 2025 19:56:27"
+            }
         },
         {
             "slug": "lemon-poppy-bars",
@@ -133,7 +181,11 @@
                 "bars",
                 "poppy-seeds",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1771813103,
+                "human-readable": "Sun, 22 Feb 2026 18:18:23"
+            }
         },
         {
             "slug": "pumpkin-chocolate-chip-cookies",
@@ -144,7 +196,11 @@
                 "pumpkin",
                 "chocolate",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1726331987,
+                "human-readable": "Sat, 14 Sep 2024 09:39:47"
+            }
         },
         {
             "slug": "pumpkin-scones",
@@ -154,7 +210,11 @@
                 "scones",
                 "pumpkin",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1728867038,
+                "human-readable": "Sun, 13 Oct 2024 17:50:38"
+            }
         },
         {
             "slug": "spudnuts",
@@ -165,7 +225,11 @@
                 "glaze",
                 "potato",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1762211186,
+                "human-readable": "Mon, 03 Nov 2025 15:06:26"
+            }
         },
         {
             "slug": "yule-log",
@@ -177,7 +241,11 @@
                 "chocolate",
                 "christmas",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1671458400,
+                "human-readable": "Mon, 19 Dec 2022 06:00:00"
+            }
         },
         {
             "slug": "soft-peanut-butter-cookies",
@@ -186,7 +254,11 @@
             "tags": [
                 "peanut-butter",
                 "cookies"
-            ]
+            ],
+            "date": {
+                "epoch": 1725218522,
+                "human-readable": "Sun, 01 Sep 2024 12:22:02"
+            }
         },
         {
             "slug": "scotcharoos",
@@ -195,7 +267,11 @@
             "tags": [
                 "scotcharoos",
                 "peanut-butter"
-            ]
+            ],
+            "date": {
+                "epoch": 1682825469,
+                "human-readable": "Sat, 29 Apr 2023 20:31:09"
+            }
         },
         {
             "slug": "sticky-pecan-buns",
@@ -205,7 +281,11 @@
                 "sticky-buns",
                 "pecans",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1603778320,
+                "human-readable": "Mon, 26 Oct 2020 22:58:40"
+            }
         },
         {
             "slug": "strawberry-shortcake",
@@ -216,7 +296,11 @@
                 "shortcake",
                 "cake",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1654434360,
+                "human-readable": "Sun, 05 Jun 2022 06:06:00"
+            }
         },
         {
             "slug": "texas-fudge-cake",
@@ -226,7 +310,11 @@
                 "chocolate",
                 "cake",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1721649170,
+                "human-readable": "Mon, 22 Jul 2024 04:52:50"
+            }
         },
         {
             "slug": "tiramisu",
@@ -237,7 +325,11 @@
                 "coffee",
                 "mascarpone",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1725762675,
+                "human-readable": "Sat, 07 Sep 2024 19:31:15"
+            }
         },
         {
             "slug": "viral-milk-bar-pumpkin-pie",
@@ -247,7 +339,11 @@
                 "pumpkin",
                 "pie",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1700458340,
+                "human-readable": "Sun, 19 Nov 2023 21:32:20"
+            }
         },
         {
             "slug": "caramel-apple-scones",
@@ -258,7 +354,11 @@
                 "scones",
                 "caramel",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1603773830,
+                "human-readable": "Mon, 26 Oct 2020 21:43:50"
+            }
         },
         {
             "slug": "zucchini-bread",
@@ -268,7 +368,11 @@
                 "zucchini",
                 "bread",
                 "vod"
-            ]
+            ],
+            "date": {
+                "epoch": 1772341532,
+                "human-readable": "Sat, 28 Feb 2026 21:05:32"
+            }
         }
     ]
 }
